@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Histoire du Mouridisme</string>
+    <string name="app_name">L\'histoire de la Mouridya</string>
+    <string name="rules">Merci d\'avoir choisi votre jeu MuridQuiz - Ce jeu a simplement pour vocation de faire connaitre (aux gens aux enfants en particulier) le be à ba de l\'histoire de la Mouridya. Nous demandons à toute personne utilisant ce jeu éducatif de bien  vouloir prier pour SERIGNE SALIOU MBACKE. NOTRE OBJECTIF: Oeuvrer pour Cheikh Ahmadou Bamba Khadimou Rassoul.</string>
+    <string name="app_about">A Propos</string>
+    <string name="str_exit">Fermer</string>
+    <string name="str_stop">En Sourdine</string>
+    <string name="str_start">Activer Son</string>
+    <string name="app_about_message">ANNASSIHATOU Menu</string>
+    <string name="str_ok">Oui</string>
+    <string name="app_exit">Fermer</string>
+    <string name="app_exit_message">Voulez vous fermer?</string>
+    <string name="str_no">Non</string>
+    <string name="str_yes">Oui, s\'il vous plait</string>
+    <string name="title">MuridQuiz: L\'histoire de la Mouridya</string>
+    <string name="wolo">Wolofalou Serigne Moussa Ka</string>
+    <string name="juste">Juste! La bonne est bien: </string>
+    <string name="ooup">Oooops! La bonne était: </string>
+    <string name="score">Votre score: </string>
+    <string name="choix">Veuillez choisir une réponse</string>
+
+</resources>

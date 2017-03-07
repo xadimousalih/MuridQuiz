@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:paddingBottom="15dip"
+        android:paddingTop="15dip" >
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/logo2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:paddingBottom="5dip"
+        android:paddingTop="5dip" >
+
+        <Button
+            android:id="@+id/playBtn"
+            android:layout_width="85dip"
+            android:layout_height="35dip"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/button_selector"
+            android:paddingBottom="5dip"
+            android:paddingTop="5dip"
+            android:text="Jouer"
+            android:textColor="#ffffff"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:paddingBottom="5dip"
+        android:paddingTop="5dip" >
+
+        <Button
+            android:id="@+id/settingsBtn"
+            android:layout_width="85dip"
+            android:layout_height="35dip"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/button_selector"
+            android:paddingBottom="5dip"
+            android:paddingTop="5dip"
+            android:text="Paramètres"
+            android:textColor="#ffffff"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:paddingBottom="5dip"
+        android:paddingTop="5dip" >
+
+        <Button
+            android:id="@+id/rulesBtn"
+            android:layout_width="85dip"
+            android:layout_height="35dip"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/button_selector"
+            android:paddingBottom="5dip"
+            android:paddingTop="5dip"
+            android:text="Règles"
+            android:textColor="#ffffff"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:paddingBottom="5dip"
+        android:paddingTop="5dip" >
+
+        <Button
+            android:id="@+id/exitBtn"
+            android:layout_width="85dip"
+            android:layout_height="35dip"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/button_selector"
+            android:paddingBottom="5dip"
+            android:paddingTop="5dip"
+            android:text="Quitter"
+            android:textColor="#ffffff"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

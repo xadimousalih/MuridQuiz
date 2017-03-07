@@ -1,0 +1,16 @@
+com.tab28.quiz.AnswersActivity
+com.tab28.quiz.AnswersActivity: AnswersActivity()
+com.tab28.quiz.EndgameActivity
+com.tab28.quiz.EndgameActivity: EndgameActivity()
+com.tab28.quiz.MuridQuizApplication
+com.tab28.quiz.MuridQuizApplication: MuridQuizApplication()
+com.tab28.quiz.MyService
+com.tab28.quiz.MyService: MyService()
+com.tab28.quiz.QuestionActivity
+com.tab28.quiz.QuestionActivity: QuestionActivity()
+com.tab28.quiz.RulesActivity
+com.tab28.quiz.RulesActivity: RulesActivity()
+com.tab28.quiz.SettingsActivity
+com.tab28.quiz.SettingsActivity: SettingsActivity()
+com.tab28.quiz.SplashActivity
+com.tab28.quiz.SplashActivity: SplashActivity()

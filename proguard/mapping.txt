@@ -1,0 +1,188 @@
+com.tab28.quiz.AboutDialog -> com.tab28.quiz.a:
+    android.content.Context mContext -> a
+    31:38:void onCreate(android.os.Bundle) -> onCreate
+    41:52:java.lang.String readRawTextFile(int) -> a
+com.tab28.quiz.AnswersActivity -> com.tab28.quiz.AnswersActivity:
+    31:52:void onBackPressed() -> onBackPressed
+    56:70:void onCreate(android.os.Bundle) -> onCreate
+    82:87:boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    92:96:void onClick(android.view.View) -> onClick
+    99:103:boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    107:111:boolean onKeyUp(int,android.view.KeyEvent) -> onKeyUp
+    116:133:boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected
+    1:1:void access$0(com.tab28.quiz.AnswersActivity) -> a
+com.tab28.quiz.AnswersActivity$1 -> com.tab28.quiz.b:
+    com.tab28.quiz.AnswersActivity this$0 -> a
+    39:42:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.AnswersActivity$2 -> com.tab28.quiz.c:
+    com.tab28.quiz.AnswersActivity this$0 -> a
+    48:48:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.AnswersActivity$3 -> com.tab28.quiz.d:
+    com.tab28.quiz.AnswersActivity this$0 -> a
+    145:145:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.AnswersActivity$4 -> com.tab28.quiz.e:
+    com.tab28.quiz.AnswersActivity this$0 -> a
+    151:154:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.EndgameActivity -> com.tab28.quiz.EndgameActivity:
+    35:56:void onBackPressed() -> onBackPressed
+    60:85:void onCreate(android.os.Bundle) -> onCreate
+    93:95:int getDifficultySettings() -> a
+    108:113:boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    118:128:void onClick(android.view.View) -> onClick
+    131:135:boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    140:157:boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected
+    161:166:boolean onKeyUp(int,android.view.KeyEvent) -> onKeyUp
+    1:1:void access$0(com.tab28.quiz.EndgameActivity) -> a
+com.tab28.quiz.EndgameActivity$1 -> com.tab28.quiz.f:
+    com.tab28.quiz.EndgameActivity this$0 -> a
+    43:46:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.EndgameActivity$2 -> com.tab28.quiz.g:
+    com.tab28.quiz.EndgameActivity this$0 -> a
+    52:52:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.EndgameActivity$3 -> com.tab28.quiz.h:
+    com.tab28.quiz.EndgameActivity this$0 -> a
+    178:178:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.EndgameActivity$4 -> com.tab28.quiz.i:
+    com.tab28.quiz.EndgameActivity this$0 -> a
+    184:187:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.MuridQuizApplication -> com.tab28.quiz.MuridQuizApplication:
+    com.tab28.quiz.muridquiz.GamePlay currentGame -> a
+    19:20:void setCurrentGame(com.tab28.quiz.muridquiz.GamePlay) -> a
+    26:26:com.tab28.quiz.muridquiz.GamePlay getCurrentGame() -> a
+com.tab28.quiz.MyService -> com.tab28.quiz.MyService:
+    android.media.MediaPlayer myPlayer -> a
+    21:21:android.os.IBinder onBind(android.content.Intent) -> onBind
+    26:30:void onCreate() -> onCreate
+    34:37:void onDestroy() -> onDestroy
+    41:44:void onStart(android.content.Intent,int) -> onStart
+com.tab28.quiz.QuestionActivity -> com.tab28.quiz.QuestionActivity:
+    com.tab28.quiz.muridquiz.Question currentQ -> a
+    com.tab28.quiz.muridquiz.GamePlay currentGame -> b
+    41:62:void onBackPressed() -> onBackPressed
+    66:100:void onCreate(android.os.Bundle) -> onCreate
+    134:156:void onClick(android.view.View) -> onClick
+    160:165:boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    219:224:boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    228:233:boolean onKeyUp(int,android.view.KeyEvent) -> onKeyUp
+    238:255:boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected
+    1:1:void access$0(com.tab28.quiz.QuestionActivity) -> a
+com.tab28.quiz.QuestionActivity$1 -> com.tab28.quiz.j:
+    com.tab28.quiz.QuestionActivity this$0 -> a
+    49:52:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.QuestionActivity$2 -> com.tab28.quiz.k:
+    com.tab28.quiz.QuestionActivity this$0 -> a
+    58:58:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.QuestionActivity$3 -> com.tab28.quiz.l:
+    com.tab28.quiz.QuestionActivity this$0 -> a
+    87:92:void onClick(android.view.View) -> onClick
+com.tab28.quiz.QuestionActivity$4 -> com.tab28.quiz.m:
+    com.tab28.quiz.QuestionActivity this$0 -> a
+    267:267:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.QuestionActivity$5 -> com.tab28.quiz.n:
+    com.tab28.quiz.QuestionActivity this$0 -> a
+    273:276:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.RulesActivity -> com.tab28.quiz.RulesActivity:
+    30:50:void onBackPressed() -> onBackPressed
+    54:61:void onCreate(android.os.Bundle) -> onCreate
+    68:69:void onClick(android.view.View) -> onClick
+    72:76:boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    82:99:boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected
+    102:107:boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    111:116:boolean onKeyUp(int,android.view.KeyEvent) -> onKeyUp
+    1:1:void access$0(com.tab28.quiz.RulesActivity) -> a
+com.tab28.quiz.RulesActivity$1 -> com.tab28.quiz.o:
+    com.tab28.quiz.RulesActivity this$0 -> a
+    38:40:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.RulesActivity$2 -> com.tab28.quiz.p:
+    com.tab28.quiz.RulesActivity this$0 -> a
+    46:46:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.RulesActivity$3 -> com.tab28.quiz.q:
+    com.tab28.quiz.RulesActivity this$0 -> a
+    127:127:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.RulesActivity$4 -> com.tab28.quiz.r:
+    com.tab28.quiz.RulesActivity this$0 -> a
+    133:136:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.SettingsActivity -> com.tab28.quiz.SettingsActivity:
+    33:48:void onCreate(android.os.Bundle) -> onCreate
+    81:92:void onClick(android.view.View) -> onClick
+    123:127:boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    130:135:boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    139:144:boolean onKeyUp(int,android.view.KeyEvent) -> onKeyUp
+    148:165:boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected
+    1:1:void access$0(com.tab28.quiz.SettingsActivity) -> a
+com.tab28.quiz.SettingsActivity$1 -> com.tab28.quiz.s:
+    com.tab28.quiz.SettingsActivity this$0 -> a
+    177:177:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.SettingsActivity$2 -> com.tab28.quiz.t:
+    com.tab28.quiz.SettingsActivity this$0 -> a
+    183:186:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.SplashActivity -> com.tab28.quiz.SplashActivity:
+    39:60:void onBackPressed() -> onBackPressed
+    64:76:void onCreate(android.os.Bundle) -> onCreate
+    85:112:void onClick(android.view.View) -> onClick
+    122:138:java.util.List getQuestionSetFromDb() -> a
+    158:160:int getNumQuestions() -> b
+    164:168:boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    174:191:boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected
+    1:1:void access$0(com.tab28.quiz.SplashActivity) -> a
+com.tab28.quiz.SplashActivity$1 -> com.tab28.quiz.u:
+    com.tab28.quiz.SplashActivity this$0 -> a
+    47:50:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.SplashActivity$2 -> com.tab28.quiz.v:
+    com.tab28.quiz.SplashActivity this$0 -> a
+    56:56:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.SplashActivity$3 -> com.tab28.quiz.w:
+    com.tab28.quiz.SplashActivity this$0 -> a
+    203:203:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.SplashActivity$4 -> com.tab28.quiz.x:
+    com.tab28.quiz.SplashActivity this$0 -> a
+    209:212:void onClick(android.content.DialogInterface,int) -> onClick
+com.tab28.quiz.db.DBHelper -> com.tab28.quiz.a.a:
+    java.lang.String DB_PATH -> a
+    java.lang.String DB_NAME -> b
+    android.database.sqlite.SQLiteDatabase myDataBase -> c
+    android.content.Context myContext -> d
+    46:59:void createDataBase() -> a
+    66:77:boolean checkDataBase() -> c
+    112:114:void openDataBase() -> b
+    118:121:void close() -> close
+    125:125:void onCreate(android.database.sqlite.SQLiteDatabase) -> onCreate
+    129:129:void onUpgrade(android.database.sqlite.SQLiteDatabase,int,int) -> onUpgrade
+    139:153:java.util.List getQuestionSet(int,int) -> a
+com.tab28.quiz.muridquiz.GamePlay -> com.tab28.quiz.b.a:
+    int numRounds -> a
+    int right -> b
+    int wrong -> c
+    int round -> d
+    java.util.List questions -> e
+    43:43:int getRight() -> a
+    67:67:int getRound() -> b
+    91:92:void setQuestions(java.util.List) -> a
+    105:105:java.util.List getQuestions() -> c
+    112:115:com.tab28.quiz.muridquiz.Question getNextQuestion() -> d
+    122:123:void incrementRightAnswers() -> e
+    129:130:void incrementWrongAnswers() -> f
+    135:136:void setNumRounds(int) -> a
+    141:141:int getNumRounds() -> g
+com.tab28.quiz.muridquiz.Helper -> com.tab28.quiz.b.b:
+    27:59:java.lang.String getResultComment(int,int,int) -> a
+    73:89:int getResultImage(int,int,int) -> b
+    102:104:int calculatePercentage(int,int) -> a
+com.tab28.quiz.muridquiz.Question -> com.tab28.quiz.b.c:
+    java.lang.String question -> a
+    java.lang.String answer -> b
+    java.lang.String option1 -> c
+    java.lang.String option2 -> d
+    java.lang.String option3 -> e
+    int rating -> f
+    21:21:java.lang.String getQuestion() -> a
+    27:28:void setQuestion(java.lang.String) -> a
+    33:33:java.lang.String getAnswer() -> b
+    39:40:void setAnswer(java.lang.String) -> b
+    51:52:void setRating(int) -> a
+    63:64:void setOption1(java.lang.String) -> c
+    75:76:void setOption2(java.lang.String) -> d
+    87:88:void setOption3(java.lang.String) -> e
+    91:97:java.util.List getQuestionOptions() -> c
+com.tab28.quiz.util.Utility -> com.tab28.quiz.c.a:
+    23:26:java.lang.String capitalise(java.lang.String) -> a

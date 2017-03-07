@@ -1,0 +1,24 @@
+# view AndroidManifest.xml #generated:28
+-keep class com.tab28.quiz.AnswersActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.tab28.quiz.EndgameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:11
+-keep class com.tab28.quiz.MuridQuizApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.tab28.quiz.MyService { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.tab28.quiz.QuestionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.tab28.quiz.RulesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.tab28.quiz.SettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.tab28.quiz.SplashActivity { <init>(...); }
+
